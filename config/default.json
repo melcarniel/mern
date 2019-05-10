@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://melcarniel:<password>@cluster0-ocxxt.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://melcarniel:melgc123@cluster0-ocxxt.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "token123456"
 }
